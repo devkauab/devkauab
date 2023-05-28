@@ -19,7 +19,6 @@
 <div>
   
   <div align="center">
-    <img alt="Kaua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devkauab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7B34A3&icon_color=7B34A3" height="180"/>
     <img alt="Kaua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauab&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1118&title_color=7B34A3&icon_color=7B34A3" height="180"/>
     <br/>
   </div>
