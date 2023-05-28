@@ -9,12 +9,6 @@
   <a href="mailto:kaua.barbosa4@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7B34A3"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-barbosa-do-nascimento-3b9832231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B34A3"></a> 
 </p>
-  
-
-  > 📌 About me
-  - I am currently studying systems analysis and development at Impacta Technology College.
-  - Graduated in Computer Science for the Internet at ETEC de Poá.
-
 
 <br>
 
@@ -43,8 +37,6 @@
   <img align="center" alt="Barbosa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Barbosa-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Barbosa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img align="center" alt="Barbosa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
-  <img align="center" alt="Barbosa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Barbosa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Barbosa-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   
 <hr/>
